@@ -1,7 +1,7 @@
 import SignUpForm from './components/SignUpForm';
 
 const App = () => (
-	<section>
+	<section className="h-screen flex items-center justify-center">
 		<SignUpForm />
 	</section>
 );
